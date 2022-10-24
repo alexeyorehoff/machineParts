@@ -1,0 +1,1 @@
+start dosbox.exe z.bat - exit - fullscreen
